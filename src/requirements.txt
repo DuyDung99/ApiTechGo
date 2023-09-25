@@ -1,0 +1,9 @@
+fastapi[all]==0.99.1
+sqlalchemy
+psycopg2-binary
+alembic
+bcrypt
+PyJWT
+click
+passlib
+Pillow
